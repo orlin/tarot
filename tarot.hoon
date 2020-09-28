@@ -9,6 +9,8 @@
 :: Getting several cards is also a planned feature that will help with search.
 :: So far we only get other cards that are related to the current chosen one.
 ::
+:: See everything via: +tarot, =o %all
+::
 !.
 :-  %say
 |=  [[now=@da eny=@uvJ *] ~ [o=@tas a=@ud name=tape ~]]
