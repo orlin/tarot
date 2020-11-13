@@ -1,19 +1,27 @@
 # [Tarot](https://www.lawofone.info/images)
 
-It started as a [Hoon School](https://hooniversity.org) final exercise.
-[Urbit](https://urbit.org/) would be needed to run this.
-
-Just a generator so far, but I plan turning it into a Landscape app,
-after [learning all of this](https://github.com/timlucmiptev/gall-guide) too.
-
-## Rationale
-
-An implementation of the tarot as given by Ra in [The Law of One](https://www.lawofone.info), It's is a very basic tool for learning the 22 archetypes of the Major Arcana.
+An implementation of the tarot as given by Ra
+in [The Law of One](https://www.lawofone.info).
+It's a very basic tool for learning the 22 archetypes of the Major Arcana.
 
 It can draw a card at random, and show all cards related to it.
-Since it does give additional detail - one could ask for a card by name or number.
+Since it does give additional detail -
+one could ask for a card by name or number.
 
-There is also an option to show a table of all cards organized by Mind-Body-Spirit complex for columns and the 8 classification categories for rows. This makes the triples and pairs easy to spot as one learns the material.
+There is also an option to show a table of all cards
+organized into Mind/Body/Spirit complex columns
+and the 8 classification categories for rows.
+This format makes the triples and pairs easy to spot
+as one learns the material.
+
+## How
+
+[Urbit](https://urbit.org/) would be needed to run this.
+
+It started as a [Hoon School](https://hooniversity.org) final exercise.
+
+So far it's just a generator, which I plan to turn into a Landscape app,
+after [learning all of this](https://github.com/timlucmiptev/gall-guide) too.
 
 ## Use
 
@@ -49,10 +57,12 @@ Here is a default example - I just called `+tarot` to get a random card:
 ]
 ```
 
-Above I got the Emperor archetype. It is card #4, of the Mind complex, which together with Justice for Body and Moon for Spirit represents Experience.
+Above I got the Emperor archetype. It is card #4, of the Mind complex,
+which together with Justice for Body and Moon for Spirit represents Experience.
 It also pairs with the Empress Catalyst.
 
-To get a specific card, for example the Sun, one could ask for it by name `+tarot, =name "sun"` or number `+tarot, =a 19`:
+To get a specific card, for example the Sun, one could ask for it by name
+`+tarot, =name "sun"` or number `+tarot, =a 19`:
 
 ```
 ~[
