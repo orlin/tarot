@@ -1,4 +1,4 @@
-# [Tarot](https://www.lawofone.info/images)
+# Tarot
 
 An implementation of the tarot as given by Ra
 in [The Law of One](https://www.lawofone.info).
@@ -8,11 +8,16 @@ It can draw a card at random, and show all cards related to it.
 Since it does give additional detail -
 one could ask for a card by name or number.
 
+### [A Tabular Aid](https://www.lawofone.info/images)
+
 There is also an option to show a table of all cards
 organized into Mind/Body/Spirit complex columns
 and the 8 classification categories for rows.
 This format makes the triples and pairs easy to spot
 as one learns the material.
+
+What follows is a representation of such an aid,
+possibly just a placeholder of a future app screenshot.
 
 |                                          /                                          |        M i n d         |         B o d y         |       S p i r i t       |
 | :---------------------------------------------------------------------------------: | :--------------------: | :---------------------: | :---------------------: |
