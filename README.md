@@ -16,13 +16,21 @@ as one learns the material.
 
 |                                          /                                          |        M i n d         |         B o d y         |       S p i r i t       |
 | :---------------------------------------------------------------------------------: | :--------------------: | :---------------------: | :---------------------: |
+|                                                                                     |
 |                         **M<br/>a<br/>t<br/>r<br/>i<br/>x**                         | ![](images/card-1.jpg) | ![](images/card-8.jpg)  | ![](images/card-15.jpg) |
+|                                                                                     |                        |                         |                         |
 |          **P<br/>o<br/>t<br/>e<br/>n<br/>t<br/>i<br/>a<br/>t<br/>o<br/>r**          | ![](images/card-2.jpg) | ![](images/card-9.jpg)  | ![](images/card-16.jpg) |
 |                                                                                     |                        |                         |                         |
+|                                                                                     |                        |                         |                         |
 |                   **C<br/>a<br/>t<br/>a<br/>l<br/>y<br/>s<br/>t**                   | ![](images/card-3.jpg) | ![](images/card-10.jpg) | ![](images/card-17.jpg) |
+|                                                                                     |                        |                         |                         |
 |             **E<br/>x<br/>p<br/>e<br/>r<br/>i<br/>e<br/>n<br/>c<br/>e**             | ![](images/card-4.jpg) | ![](images/card-11.jpg) | ![](images/card-18.jpg) |
 |                                                                                     |                        |                         |                         |
+|                                                                                     |                        |                         |                         |
 |       **S<br/>i<br/>g<br/>n<br/>i<br/>f<br/>i<br/>c<br/>a<br/>t<br/>o<br/>r**       | ![](images/card-5.jpg) | ![](images/card-12.jpg) | ![](images/card-19.jpg) |
+|                                                                                     |                        |                         |                         |
+|                                        **=**                                        |       **Choice**       |       **Choice**        |       **Choice**        |
+|                                                                                     |                        |                         |                         |
 |                                                                                     |                        |                         |                         |
 | **T<br/>r<br/>a<br/>n<br/>s<br/>f<br/>o<br/>r<br/>m<br/>a<br/>t<br/>i<br/>o<br/>n** | ![](images/card-6.jpg) | ![](images/card-13.jpg) | ![](images/card-20.jpg) |
 |                **G<br/>r<br/>e<br/>a<br/>t<br/><br/>W<br/>a<br/>y**                 | ![](images/card-7.jpg) | ![](images/card-14.jpg) | ![](images/card-21.jpg) |
