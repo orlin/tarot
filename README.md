@@ -17,6 +17,7 @@ as one learns the material.
 |                                          /                                          |        M i n d         |         B o d y         |       S p i r i t       |
 | :---------------------------------------------------------------------------------: | :--------------------: | :---------------------: | :---------------------: |
 |                                                                                     |                        |                         |                         |
+|                                                                                     |                        |                         |                         |
 |                         **M<br/>a<br/>t<br/>r<br/>i<br/>x**                         | ![](images/card-1.jpg) | ![](images/card-8.jpg)  | ![](images/card-15.jpg) |
 |                                                                                     |                        |                         |                         |
 |          **P<br/>o<br/>t<br/>e<br/>n<br/>t<br/>i<br/>a<br/>t<br/>o<br/>r**          | ![](images/card-2.jpg) | ![](images/card-9.jpg)  | ![](images/card-16.jpg) |
@@ -33,6 +34,7 @@ as one learns the material.
 |                                                                                     |                        |                         |                         |
 |                                                                                     |                        |                         |                         |
 | **T<br/>r<br/>a<br/>n<br/>s<br/>f<br/>o<br/>r<br/>m<br/>a<br/>t<br/>i<br/>o<br/>n** | ![](images/card-6.jpg) | ![](images/card-13.jpg) | ![](images/card-20.jpg) |
+|                                                                                     |                        |                         |                         |
 |                **G<br/>r<br/>e<br/>a<br/>t<br/><br/>W<br/>a<br/>y**                 | ![](images/card-7.jpg) | ![](images/card-14.jpg) | ![](images/card-21.jpg) |
 
 ## How
