@@ -16,7 +16,7 @@ as one learns the material.
 
 |                                          /                                          |        M i n d         |         B o d y         |       S p i r i t       |
 | :---------------------------------------------------------------------------------: | :--------------------: | :---------------------: | :---------------------: |
-|                                                                                     |
+|                                                                                     |                        |                         |                         |
 |                         **M<br/>a<br/>t<br/>r<br/>i<br/>x**                         | ![](images/card-1.jpg) | ![](images/card-8.jpg)  | ![](images/card-15.jpg) |
 |                                                                                     |                        |                         |                         |
 |          **P<br/>o<br/>t<br/>e<br/>n<br/>t<br/>i<br/>a<br/>t<br/>o<br/>r**          | ![](images/card-2.jpg) | ![](images/card-9.jpg)  | ![](images/card-16.jpg) |
